@@ -1,0 +1,54 @@
+{
+    "scene_id": 1,
+    "info": [
+        {
+            "scene_name": "xxxx",
+            "description": "xxxx",
+            "duration": 10,
+            "status": "draft",
+            "created-at": 20240918,
+            "user_id": 2
+        }
+    ],
+    "media_list": [
+        {
+            "media_id": 2,
+            "media_name": "xxxx",
+            "file_path": "/xxx/xxx",
+            "file_name": "xxx.mp4",
+            "description": "xxx",
+            "file_size": 345343,
+            "file_extension": "mp4",
+            "duration": 35,
+            "status": "draft",
+            "created-at": 20240918,
+            "user_id": 2
+        },
+        {
+            "media_id": 4,
+            "media_name": "xxxx",
+            "file_path": "/xxx/xxx",
+            "file_name": "xxx.mp4",
+            "description": "xxx",
+            "file_size": 345343,
+            "file_extension": "mp4",
+            "duration": 35,
+            "status": "draft",
+            "created-at": 20240918,
+            "user_id": 2
+        },
+        {
+            "media_id": 3,
+            "media_name": "xxxx",
+            "file_path": "/xxx/xxx",
+            "file_name": "xxx.mp4",
+            "description": "xxx",
+            "file_size": 345343,
+            "file_extension": "mp4",
+            "duration": 35,
+            "status": "draft",
+            "created-at": 20240918,
+            "user_id": 2
+        }
+    ]
+}

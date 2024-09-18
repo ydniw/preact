@@ -1,0 +1,9 @@
+services:
+  preact-app:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - ./:/app
+    environment:
+      - NODE_ENV=production
